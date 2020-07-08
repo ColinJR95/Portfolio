@@ -1,2 +1,2 @@
 # Portfolio
-Currtently updating adding react 
+Currtently updating adding react npm
